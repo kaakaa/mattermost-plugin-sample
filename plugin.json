@@ -1,10 +1,10 @@
 {
-    "id": "hoge",
+    "id": "hoge3",
     "name": "hogehogeplugin",
     "description": "we can hogehoge",
     "version": "0.0.1",
     "backend": {
-        "executable": "plugin.exe"
+        "executable": "server/plugin.exe"
     },
     "settings_schema": {
         "settings": [
